@@ -1,22 +1,13 @@
 
-<head>
-    <meta charset="UTF-8">
-    <div><center><img src='Imagenes/logo henry.PNG'></center></div>
+<center><img src='Imagenes/logo henry.PNG'></cente
+
+
+            
+<h1 style="color:blueviolet"><center><strong>PROYECTO INDIVIDUAL Nº2</strong></center></h
+           
+<h2 style="color:black"><center>Cryptocurrency Market Data Analytics</center></h
     
 
-</head>
-
-<body>
-    <div>
-        <header>
-
-            <div><h1 style="color:blueviolet"><center><strong>PROYECTO INDIVIDUAL Nº2</strong></center></h1></div>
-           <div><h2 style="color:black"><center>Cryptocurrency Market Data Analytics</center></h2></div>
-        
-        </header>
-    </div>
-
-    <div>
         <h3><strong>Conexión API CoinGecko - Generación Dataframe</strong></h3>
 
         <p style="text-align: justify;">Para llevar a cabo el presente proyecto, se hace uso de la API de suo público que posee
@@ -48,7 +39,7 @@
         <li>Se genera el dataframe con las siguientes variables por criptomoneda: precio, market cap y volumen total de transacción en unidades monetarias.</li>
         </ul>
     
-    <div>
+
         <h3><strong>EDA (Exploratory Data Analysis)</strong></h3>
 
         <p style="text-align: justify;">Se procede a hacer uso de las funciones y gráficas pertinentes para hacer el análisis de los datos
@@ -68,7 +59,7 @@
 
             <li>Se gráfican también los puntos máximos en cuanto a precios y volumen transaccional</li>
         </ul>
-    </div>
+    
         <h3><strong>Conclusiones</strong></h3>
 
         <ul>
@@ -80,26 +71,6 @@
             
         <li>...</li>
         </ul>
-    </div>
+    
 
-    </div>
         <h3><strong>KPI'S</strong></h3>
-
-
-
-
-
-
-
-    </div>
-
-
-
-
-
-
-
-
-</body>
-
-</html>
