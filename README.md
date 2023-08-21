@@ -1,9 +1,7 @@
 
-<center><img src='Imagenes/logo henry.PNG'></cente
-
-
-            
-<h1 style="color:blueviolet"><center><strong>PROYECTO INDIVIDUAL Nº2</strong></center></h
+<center><img src='Imagenes/logo henry.PNG'></center>
+      
+<h1 style="color:blueviolet"><center><strong>PROYECTO INDIVIDUAL Nº2</strong></center></h1>
            
 <h2 style="color:black"><center>Cryptocurrency Market Data Analytics</center></h2>
     
