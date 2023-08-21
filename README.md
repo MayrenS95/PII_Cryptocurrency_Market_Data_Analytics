@@ -5,7 +5,7 @@
             
 <h1 style="color:blueviolet"><center><strong>PROYECTO INDIVIDUAL Nº2</strong></center></h
            
-<h2 style="color:black"><center>Cryptocurrency Market Data Analytics</center></h
+<h2 style="color:black"><center>Cryptocurrency Market Data Analytics</center></h2>
     
 <h3><strong>Conexión API CoinGecko - Generación Dataframe</strong></h3>
 
@@ -45,11 +45,11 @@ tomando como referencia el ranking de la página de CoinGecko, y otros artículo
 <ul>
 <li>No se encuentran valores nulos, ni duplicados dentro de las columnas o variables extraidas para generar el dataframe</li>
 <center><img src="Imagenes/heatmap-nulos.PNG"></center>
-<footer><center>fig.1 Heatmap - Valores nulos</center></footer>
+<h4><center>fig.1 Heatmap - Valores nulos</center></h4>
 
 <li>Se evidencia la correlación positiva entre las variables precio y mercado de capitalización, mientras que en cuanto al total de transacciones no se observa que estas se encuentren relacionadas.</li>
 <center><img src="Imagenes/pairplot.png"></center>
-<footer><center>fig.2 Pairplot - Ethereum</center></footer>
+<h4><center>fig.2 Pairplot - Ethereum</center></h4>
 
 <li>Se procede a gráficar el comportamiento histórico de los precios de las monedas, mercado de capitalización, para evidenciar tendencias.</li>
 
